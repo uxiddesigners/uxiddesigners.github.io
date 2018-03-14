@@ -2,8 +2,8 @@
 
 /* Editable entries are bellow */
 
-$send_to = "iketu312@gmail.com";
-$send_subject = "Ajax form ";
+$send_to = "uxiddesigners@outlook.com";
+$send_subject = "Mail from UXiD";
 
 
 
